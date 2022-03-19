@@ -1,3 +1,8 @@
+#Ever wondered what your m1 mac's fan sounds like? This code might help! 
+#A simple multiprocessor code that makes the cpu go nuts! 
+#Very handy in winter!
+
+
 import multiprocessing
 import sys
 
